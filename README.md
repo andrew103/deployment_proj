@@ -27,3 +27,5 @@ http://54.201.247.96/
 Uses virtualenv to contain the project.
 
 Utilizes Google and Facebook login APIs for third-party login capability.
+
+Website source code: https://github.com/andrew103/restructured_catalog_project
